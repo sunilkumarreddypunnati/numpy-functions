@@ -45,8 +45,8 @@ Perfect for learners who want to build a strong foundation in **NumPy array mani
 
 # 🔗 Connect With Me  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
-💻 [GitHub](https://github.com/sunilkumarreddypunnati)  
+🌐 [LinkedIn]--(https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
+💻 [GitHub]--(https://github.com/sunilkumarreddypunnati)  
 
 ---
 
